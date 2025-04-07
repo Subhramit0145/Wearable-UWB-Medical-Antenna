@@ -72,6 +72,8 @@ A compact ultra-wideband (UWB) wearable antenna designed for integration into a 
 *Full references available in the [paper](Subhramit_Paper.pdf).*
 
 ---
+## License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Citation
 ```bibtex
