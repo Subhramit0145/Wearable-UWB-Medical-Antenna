@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+authors:
+  - family-names: Kumar
+    given-names: Somesh
+    affiliation: ABV-IIITM, Gwalior
+  - family-names: Dwivedi
+    given-names: Yadvendra Prasad
+    affiliation: ABV-IIITM, Gwalior
+  - family-names: Bera
+    given-names: Subhramit
+    affiliation: ABV-IIITM, Gwalior
+title: "Compact Wearable Antenna with Band-Notch Features for Medical Applications"
+version: 1.0.0
+doi: 10.XXXX/XXXXXX  # Add DOI if available
+date-released: 2023-08-01
+url: "https://github.com/yourusername/Wearable-UWB-Medical-Antenna"
